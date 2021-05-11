@@ -1,0 +1,8 @@
+x=Exp(10);
+y=log(x+2);
+a=0;
+b=0;
+if (x+y>0)
+a=x*y;
+else
+b=x/y+10;
